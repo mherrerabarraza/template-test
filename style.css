@@ -1,0 +1,10 @@
+html {
+  /* Keep good border */
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* background stretch:Total Screen */
+  min-height: 100vh;
+}
